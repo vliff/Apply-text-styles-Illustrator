@@ -15,7 +15,7 @@ Jsx script applies predefined styles to paragraphs or lines to selected text ite
 ![et voila](/images/ApplyParagraphStyles2.png)
 
 ## BUG: make sure you dont have empty line in the end of frame.
-(last text line in frame ends with "#" in "Show hidden characters alt+cmd+I").
+Last text line in frame ends with "#" in "Show hidden characters alt+cmd+I". If you have empty last line — script will alert an error. This is an illustrator bug and I don't know how to handle it yet.
 
 ![bug img](/images/Bug.png)
 
