@@ -10,3 +10,6 @@ Instructions:
 
 BUG: make sure you dont have empty line in the end of frame (last text line in frame ends with "#" in "Show hidden characters alt+cmd+I").
 
+/* 
+If you like this script, you can buy me a BEER via paypal.me/vliff 
+*/
