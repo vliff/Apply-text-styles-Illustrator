@@ -10,7 +10,7 @@ Jsx script applies predefined styles to paragraphs or lines to selected text ite
 3. Select all text frames and run the script.
 ![select and run](/images/ApplyParagraphStyles.png)
 
-4. Every paragraph or line in every text frame will be formatted with corrensponding style in panel.
+4. Every paragraph or line in every text frame will be formatted with corresponding style in panel.
 (1st paragraph - 1st style, 2nd paragraph - 2nd style, etc.)
 ![et voila](/images/ApplyParagraphStyles2.png)
 
