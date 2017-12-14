@@ -14,8 +14,9 @@ Jsx script applies predefined styles to paragraphs or lines to selected text ite
 (1st paragraph - 1st style, 2nd paragraph - 2nd style, etc.)
 ![et voila](https://github.com/vliff/Apply-text-styles-Illustrator/raw/master/Apply%20Paragraph%20Styles%202.png)
 
-BUG: make sure you dont have empty line in the end of frame.
+## BUG: make sure you dont have empty line in the end of frame.
 (last text line in frame ends with "#" in "Show hidden characters alt+cmd+I").
+
 ![bug img](https://github.com/vliff/Apply-text-styles-Illustrator/raw/master/Bug.png)
 
 If you like this script, you can buy me a BEER via paypal.me/vliff 
